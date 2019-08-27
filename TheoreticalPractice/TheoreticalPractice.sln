@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "简单工厂模式-计算器", "简单工厂模式-计算器\简单工厂模式-计算器.csproj", "{A340A2CD-4899-41AB-801B-770FB8DBDB1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "单例模式-计数器", "单例模式-计数器\单例模式-计数器.csproj", "{46940BC2-F19C-4554-8214-9BB04AB51B94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "单元测试-NUnit", "单元测试-NUnit\单元测试-NUnit.csproj", "{BF71C82C-AFEE-4A9C-9047-C1876B23B66D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A340A2CD-4899-41AB-801B-770FB8DBDB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A340A2CD-4899-41AB-801B-770FB8DBDB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A340A2CD-4899-41AB-801B-770FB8DBDB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A340A2CD-4899-41AB-801B-770FB8DBDB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46940BC2-F19C-4554-8214-9BB04AB51B94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46940BC2-F19C-4554-8214-9BB04AB51B94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46940BC2-F19C-4554-8214-9BB04AB51B94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46940BC2-F19C-4554-8214-9BB04AB51B94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF71C82C-AFEE-4A9C-9047-C1876B23B66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF71C82C-AFEE-4A9C-9047-C1876B23B66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF71C82C-AFEE-4A9C-9047-C1876B23B66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF71C82C-AFEE-4A9C-9047-C1876B23B66D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
